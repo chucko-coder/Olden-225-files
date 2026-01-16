@@ -1,2 +1,2 @@
 # Olden-225-files
-Updated project files for week 1
+A repo holding the project files for WEBD-225
